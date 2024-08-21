@@ -1,0 +1,848 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\migrations\\20240805145204_newmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\migrations\\20240805145204_newmigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DFBD6E-65CB-4A7F-84BB-A8C00D4460B9}|AppBloodWeb.CrossCutting\\AppBloodWeb.CrossCutting.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.crosscutting\\iocc\\dependencyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DFBD6E-65CB-4A7F-84BB-A8C00D4460B9}|AppBloodWeb.CrossCutting\\AppBloodWeb.CrossCutting.csproj|solutionrelative:appbloodweb.crosscutting\\iocc\\dependencyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1C9AD3-D638-4C05-814F-11A2734DE749}|AppBloodWeb.API\\AppBloodWeb.API.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1C9AD3-D638-4C05-814F-11A2734DE749}|AppBloodWeb.API\\AppBloodWeb.API.csproj|solutionrelative:appbloodweb.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\context\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\context\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\mapings\\modelodtomappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\mapings\\modelodtomappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DFBD6E-65CB-4A7F-84BB-A8C00D4460B9}|AppBloodWeb.CrossCutting\\AppBloodWeb.CrossCutting.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.crosscutting\\appbloodweb.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E3DFBD6E-65CB-4A7F-84BB-A8C00D4460B9}|AppBloodWeb.CrossCutting\\AppBloodWeb.CrossCutting.csproj|solutionrelative:appbloodweb.crosscutting\\appbloodweb.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1C9AD3-D638-4C05-814F-11A2734DE749}|AppBloodWeb.API\\AppBloodWeb.API.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.api\\controllers\\permissaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1C9AD3-D638-4C05-814F-11A2734DE749}|AppBloodWeb.API\\AppBloodWeb.API.csproj|solutionrelative:appbloodweb.api\\controllers\\permissaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1C9AD3-D638-4C05-814F-11A2734DE749}|AppBloodWeb.API\\AppBloodWeb.API.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.api\\appbloodweb.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3B1C9AD3-D638-4C05-814F-11A2734DE749}|AppBloodWeb.API\\AppBloodWeb.API.csproj|solutionrelative:appbloodweb.api\\appbloodweb.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1C9AD3-D638-4C05-814F-11A2734DE749}|AppBloodWeb.API\\AppBloodWeb.API.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B1C9AD3-D638-4C05-814F-11A2734DE749}|AppBloodWeb.API\\AppBloodWeb.API.csproj|solutionrelative:appbloodweb.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\appbloodweb.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\appbloodweb.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\triagemdetalhesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\triagemdetalhesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\agendamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\agendamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\historicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\historicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\logging\\customerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\logging\\customerlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\pagination\\querystringparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\pagination\\querystringparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\pagination\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\pagination\\pagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\pagination\\usuariosparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\pagination\\usuariosparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\pagination\\usuariofiltroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\pagination\\usuariofiltroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\pagination\\permissaoparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\pagination\\permissaoparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\pagination\\filtrarusuariopornome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\pagination\\filtrarusuariopornome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\filters\\apiloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\filters\\apiloggingfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\logging\\customloggerproviderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\logging\\customloggerproviderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.infrastructure\\logging\\customloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA956207-0DED-4046-A8EA-0B89936096C2}|AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj|solutionrelative:appbloodweb.infrastructure\\logging\\customloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\appbloodweb.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\appbloodweb.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\appbloodweb.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\appbloodweb.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\triagemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\triagemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\triagemdetalhesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\triagemdetalhesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\triagemaptidaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\triagemaptidaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\permissaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\permissaomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\historicodoadormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\historicodoadormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\doadormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\doadormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\bolsadesanguemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\bolsadesanguemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.domain\\entities\\adiministradormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0696BA-F73F-4756-9C32-FD6E9789D25B}|AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj|solutionrelative:appbloodweb.domain\\entities\\adiministradormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\doadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\doadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\bolsadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\bolsadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\agendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\agendadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\adiministradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\adiministradordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1C9AD3-D638-4C05-814F-11A2734DE749}|AppBloodWeb.API\\AppBloodWeb.API.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.api\\mapings\\modelodtomappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1C9AD3-D638-4C05-814F-11A2734DE749}|AppBloodWeb.API\\AppBloodWeb.API.csproj|solutionrelative:appbloodweb.api\\mapings\\modelodtomappingsprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\triagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\triagemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\triagemaptidaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\triagemaptidaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|c:\\users\\joaos\\onedrive\\documentos\\aspnet web mvc c#\\monografiaapi\\appbloodweb\\appbloodweb.application\\dtos\\permissaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE198EB-EEE6-40B8-9C4C-5FFFF345B0FD}|AppBloodWeb.Application\\AppBloodWeb.Application.csproj|solutionrelative:appbloodweb.application\\dtos\\permissaodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240805145204_NewMigrations.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Migrations\\20240805145204_NewMigrations.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Migrations\\20240805145204_NewMigrations.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Migrations\\20240805145204_NewMigrations.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Migrations\\20240805145204_NewMigrations.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:53:30.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjectionAPI.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.CrossCutting\\IoCc\\DependencyInjectionAPI.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.CrossCutting\\IoCc\\DependencyInjectionAPI.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.CrossCutting\\IoCc\\DependencyInjectionAPI.cs",
+              "RelativeToolTip": "AppBloodWeb.CrossCutting\\IoCc\\DependencyInjectionAPI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:13:01.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.API\\Program.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.API\\Program.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.API\\Program.cs",
+              "RelativeToolTip": "AppBloodWeb.API\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:32:29.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:47:26.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Context\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Context\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Context\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Context\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T12:50:30.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModeloDToMappingsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\Mapings\\ModeloDToMappingsProfile.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\Mapings\\ModeloDToMappingsProfile.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\Mapings\\ModeloDToMappingsProfile.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\Mapings\\ModeloDToMappingsProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:07:05.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppBloodWeb.CrossCutting.csproj",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.CrossCutting\\AppBloodWeb.CrossCutting.csproj",
+              "RelativeDocumentMoniker": "AppBloodWeb.CrossCutting\\AppBloodWeb.CrossCutting.csproj",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.CrossCutting\\AppBloodWeb.CrossCutting.csproj",
+              "RelativeToolTip": "AppBloodWeb.CrossCutting\\AppBloodWeb.CrossCutting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T02:42:19.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PermissaoController.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.API\\Controllers\\PermissaoController.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.API\\Controllers\\PermissaoController.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.API\\Controllers\\PermissaoController.cs",
+              "RelativeToolTip": "AppBloodWeb.API\\Controllers\\PermissaoController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAowC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:50:35.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppBloodWeb.API.csproj",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.API\\AppBloodWeb.API.csproj",
+              "RelativeDocumentMoniker": "AppBloodWeb.API\\AppBloodWeb.API.csproj",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.API\\AppBloodWeb.API.csproj",
+              "RelativeToolTip": "AppBloodWeb.API\\AppBloodWeb.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T02:42:08.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppBloodWeb.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\AppBloodWeb.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T02:42:19.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AppBloodWeb.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.API\\appsettings.json",
+              "RelativeToolTip": "AppBloodWeb.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T06:50:26.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TriagemDetalhesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\TriagemDetalhesDTO.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\TriagemDetalhesDTO.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\TriagemDetalhesDTO.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\TriagemDetalhesDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:27:38.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AgendaModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\AgendaModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\AgendaModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\AgendaModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\AgendaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:06:05.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HistoricoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\HistoricoDTO.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\HistoricoDTO.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\HistoricoDTO.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\HistoricoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:23:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerLogger.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Logging\\CustomerLogger.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Logging\\CustomerLogger.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Logging\\CustomerLogger.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Logging\\CustomerLogger.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:31:53.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QueryStringParameters.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\QueryStringParameters.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Pagination\\QueryStringParameters.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\QueryStringParameters.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Pagination\\QueryStringParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:29:30.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PagedList.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\PagedList.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Pagination\\PagedList.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\PagedList.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Pagination\\PagedList.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wBEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:29:19.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuariosParameters.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\UsuariosParameters.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Pagination\\UsuariosParameters.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\UsuariosParameters.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Pagination\\UsuariosParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:29:37.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsuariosModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\UsuariosModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\UsuariosModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\UsuariosModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\UsuariosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T05:57:49.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApiExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\Filters\\ApiExceptionFilter.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\Filters\\ApiExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\Filters\\ApiExceptionFilter.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\Filters\\ApiExceptionFilter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:11:47.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UsuarioFiltroId.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\UsuarioFiltroId.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Pagination\\UsuarioFiltroId.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\UsuarioFiltroId.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Pagination\\UsuarioFiltroId.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:29:34.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PermissaoParameters.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\PermissaoParameters.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Pagination\\PermissaoParameters.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\PermissaoParameters.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Pagination\\PermissaoParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:29:25.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FiltrarUsuarioPorNome.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\FiltrarUsuarioPorNome.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Pagination\\FiltrarUsuarioPorNome.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Pagination\\FiltrarUsuarioPorNome.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Pagination\\FiltrarUsuarioPorNome.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T09:26:07.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApiLoggingFilter.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\Filters\\ApiLoggingFilter.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\Filters\\ApiLoggingFilter.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\Filters\\ApiLoggingFilter.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\Filters\\ApiLoggingFilter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:12:12.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomLoggerProviderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Logging\\CustomLoggerProviderConfiguration.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Logging\\CustomLoggerProviderConfiguration.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Logging\\CustomLoggerProviderConfiguration.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Logging\\CustomLoggerProviderConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:32:16.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomLoggerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Logging\\CustomLoggerProvider.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Infrastructure\\Logging\\CustomLoggerProvider.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Infrastructure\\Logging\\CustomLoggerProvider.cs",
+              "RelativeToolTip": "AppBloodWeb.Infrastructure\\Logging\\CustomLoggerProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T07:32:13.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppBloodWeb.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\AppBloodWeb.Application.csproj",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\AppBloodWeb.Application.csproj",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\AppBloodWeb.Application.csproj",
+              "RelativeToolTip": "AppBloodWeb.Application\\AppBloodWeb.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T02:42:18.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppBloodWeb.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj",
+              "RelativeToolTip": "AppBloodWeb.Domain\\AppBloodWeb.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T02:42:20.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TriagemModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\TriagemModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\TriagemModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\TriagemModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\TriagemModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:08:48.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TriagemDetalhesModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\TriagemDetalhesModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\TriagemDetalhesModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\TriagemDetalhesModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\TriagemDetalhesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:08:35.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TriagemAptidaoModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\TriagemAptidaoModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\TriagemAptidaoModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\TriagemAptidaoModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\TriagemAptidaoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:08:17.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PermissaoModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\PermissaoModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\PermissaoModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\PermissaoModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\PermissaoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:08:09.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HistoricoDoadorModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\HistoricoDoadorModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\HistoricoDoadorModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\HistoricoDoadorModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\HistoricoDoadorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:07:54.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\ErrorViewModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:07:24.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DoadorModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\DoadorModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\DoadorModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\DoadorModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\DoadorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:07:09.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BolsaDeSangueModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\BolsaDeSangueModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\BolsaDeSangueModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\BolsaDeSangueModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\BolsaDeSangueModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:09:28.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdiministradorModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\AdiministradorModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Domain\\Entities\\AdiministradorModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Domain\\Entities\\AdiministradorModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Domain\\Entities\\AdiministradorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:01:03.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\LoginModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\LoginModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:25:53.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DoadorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\DoadorDTO.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\DoadorDTO.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\DoadorDTO.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\DoadorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:25:40.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BolsaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\BolsaDTO.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\BolsaDTO.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\BolsaDTO.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\BolsaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:23:43.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AgendaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\AgendaDTO.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\AgendaDTO.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\AgendaDTO.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\AgendaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:23:04.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdiministradorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\AdiministradorDTO.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\AdiministradorDTO.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\AdiministradorDTO.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\AdiministradorDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:06:41.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ModeloDToMappingsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.API\\Mapings\\ModeloDToMappingsProfile.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.API\\Mapings\\ModeloDToMappingsProfile.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.API\\Mapings\\ModeloDToMappingsProfile.cs",
+              "RelativeToolTip": "AppBloodWeb.API\\Mapings\\ModeloDToMappingsProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:14:22.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:28:31.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TriagemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\TriagemDTO.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\TriagemDTO.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\TriagemDTO.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\TriagemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:27:53.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\RegisterModel.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:26:08.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TriagemAptidaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\TriagemAptidaoDTO.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\TriagemAptidaoDTO.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\TriagemAptidaoDTO.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\TriagemAptidaoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:28:13.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PermissaoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\PermissaoDTO.cs",
+              "RelativeDocumentMoniker": "AppBloodWeb.Application\\DTOs\\PermissaoDTO.cs",
+              "ToolTip": "C:\\Users\\joaos\\OneDrive\\Documentos\\Aspnet Web MVC C#\\MonografiaAPI\\AppBloodWeb\\AppBloodWeb.Application\\DTOs\\PermissaoDTO.cs",
+              "RelativeToolTip": "AppBloodWeb.Application\\DTOs\\PermissaoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T06:26:01.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

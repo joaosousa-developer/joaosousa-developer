@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xOxdriG+EzC+Fjt8RIJgxN9gSFGblzvFknUR1gvF3RU=",
+  "Source": "AppBloodWeb.API",
+  "BasePath": "_content/AppBloodWeb.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

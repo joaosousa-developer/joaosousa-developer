@@ -1,0 +1,6 @@
+@AppBloodWeb.API_HostAddress = http://localhost:5267
+
+GET {{AppBloodWeb.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
