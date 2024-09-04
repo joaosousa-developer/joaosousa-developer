@@ -21,7 +21,7 @@ namespace AppBloodWeb.Application.Mapings;
             CreateMap<DoadorModel, DoadorDTO>().ReverseMap();
 //            CreateMap<BolsaDeSangueModel, BolsaDTO>().ReverseMap();
            CreateMap<AgendaModel, AgendaDTO>().ReverseMap();
-//            CreateMap<AdiministradorModel, AdiministradorDTO>().ReverseMap();
+           CreateMap<AdiministradorModel, AdiministradorDTO>().ReverseMap();
 
 
        }
