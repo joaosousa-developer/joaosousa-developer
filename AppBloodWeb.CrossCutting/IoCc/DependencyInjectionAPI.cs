@@ -46,6 +46,9 @@ namespace AppBloodWeb.CrossCutting.IoCc
               services.AddScoped<IdoadorServices , DoadorServices>();
               services.AddScoped<IdoadorRepository, DoadorRepository>();
 
+              services.AddScoped<IAgendaServices , AgendaServices>();
+              services.AddScoped<IagendaRepository, AgendaRepository>();
+
             services.AddAutoMapper(typeof(ModeloDToMappingsProfile));
             // Registrar o AutoMapper com os perfis de mapeamento
          // services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());

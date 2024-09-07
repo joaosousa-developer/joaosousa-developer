@@ -20,3 +20,4 @@ C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Dom
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Domain\obj\Debug\net8.0\refint\AppBloodWeb.Domain.dll
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Domain\obj\Debug\net8.0\AppBloodWeb.Domain.pdb
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Domain\obj\Debug\net8.0\ref\AppBloodWeb.Domain.dll
+C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Domain\obj\Debug\net8.0\AppBloodWeb.Domain.sourcelink.json

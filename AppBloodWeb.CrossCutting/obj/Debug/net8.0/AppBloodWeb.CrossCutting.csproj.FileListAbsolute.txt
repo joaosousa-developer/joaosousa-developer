@@ -36,3 +36,4 @@ C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Cro
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.CrossCutting\obj\Debug\net8.0\refint\AppBloodWeb.CrossCutting.dll
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.CrossCutting\obj\Debug\net8.0\AppBloodWeb.CrossCutting.pdb
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.CrossCutting\obj\Debug\net8.0\ref\AppBloodWeb.CrossCutting.dll
+C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.CrossCutting\obj\Debug\net8.0\AppBloodWeb.CrossCutting.sourcelink.json

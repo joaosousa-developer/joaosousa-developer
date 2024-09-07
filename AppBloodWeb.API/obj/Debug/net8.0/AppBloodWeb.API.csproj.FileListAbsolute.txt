@@ -115,3 +115,4 @@ C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.API
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.API\obj\Debug\net8.0\AppBloodWeb.API.genruntimeconfig.cache
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.API\obj\Debug\net8.0\ref\AppBloodWeb.API.dll
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.API\obj\Debug\net8.0\AppBloodWeb.API.sourcelink.json

@@ -32,3 +32,4 @@ C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Inf
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Infrastructure\obj\Debug\net8.0\AppBloodWeb.Infrastructure.pdb
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Infrastructure\obj\Debug\net8.0\AppBloodWeb.Infrastructure.genruntimeconfig.cache
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Infrastructure\obj\Debug\net8.0\ref\AppBloodWeb.Infrastructure.dll
+C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Infrastructure\obj\Debug\net8.0\AppBloodWeb.Infrastructure.sourcelink.json

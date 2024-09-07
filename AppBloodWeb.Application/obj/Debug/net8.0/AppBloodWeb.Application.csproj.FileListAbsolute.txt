@@ -28,3 +28,4 @@ C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.App
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Application\obj\Debug\net8.0\refint\AppBloodWeb.Application.dll
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Application\obj\Debug\net8.0\AppBloodWeb.Application.pdb
 C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Application\obj\Debug\net8.0\ref\AppBloodWeb.Application.dll
+C:\Users\joaos\OneDrive\Documentos\Aspnet Web MVC C#\AppBloodWeb\AppBloodWeb.Application\obj\Debug\net8.0\AppBloodWeb.Application.sourcelink.json
