@@ -647,7 +647,10 @@
       "System.Threading.Channels/6.0.0": {},
       "AppBloodWeb.Domain/1.0.0": {
         "runtime": {
-          "AppBloodWeb.Domain.dll": {}
+          "AppBloodWeb.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

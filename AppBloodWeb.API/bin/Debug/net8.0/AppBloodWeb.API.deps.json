@@ -1531,7 +1531,10 @@
           "Microsoft.AspNetCore.Mvc": "2.2.0"
         },
         "runtime": {
-          "AppBloodWeb.Application.dll": {}
+          "AppBloodWeb.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "AppBloodWeb.CrossCutting/1.0.0": {
@@ -1542,12 +1545,18 @@
           "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
         },
         "runtime": {
-          "AppBloodWeb.CrossCutting.dll": {}
+          "AppBloodWeb.CrossCutting.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "AppBloodWeb.Domain/1.0.0": {
         "runtime": {
-          "AppBloodWeb.Domain.dll": {}
+          "AppBloodWeb.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "AppBloodWeb.Infrastructure/1.0.0": {
@@ -1562,7 +1571,10 @@
           "Pomelo.EntityFrameworkCore.MySql": "8.0.2"
         },
         "runtime": {
-          "AppBloodWeb.Infrastructure.dll": {}
+          "AppBloodWeb.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
